@@ -10,8 +10,9 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ## PROGRAM
 ### CLIENT:
 ```
+DEVELOPED BY: ARCHANA T
+REGISTER NUMBER : 212223240013
 import socket
-
 s = socket.socket()
 host = socket.gethostname()
 port = 60000
