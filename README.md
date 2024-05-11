@@ -1,4 +1,6 @@
-# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS  
+### REGISTER NUMBER:212223240013 
+### NAME : ARCHANA T  
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
@@ -57,7 +59,8 @@ while True:
     conn.close()
 ```
 ## OUPUT
-![image](https://github.com/ARCHANAT1305/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/145975189/252546b9-ec75-43e1-bfee-ff9ae1339b28)
+![image](https://github.com/ARCHANAT1305/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/145975189/f0b171b2-c128-4c26-a635-4e1a12fb3ba0)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
